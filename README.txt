@@ -3,6 +3,8 @@ Minecraft ได้
 ทำให้สามารถทำได้ง่ายขึ้น .
 
 
+
+*** หลังจาก Download Server แล้ว ไม่ต้อง Download ใหม่ สามารถ start server ได้ทันที ยกเว้นกรณี เปลี่ยน version ***
 ======== English [version 1.7.2 up] ========
 1.open MinecraftServerSetup.exe
 2.select version
